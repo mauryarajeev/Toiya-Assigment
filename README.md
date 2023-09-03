@@ -62,3 +62,14 @@ This endpoint returns an array of objects, each containing country-specific info
     // ...
 ]```
 
+## GET request return object containing world wide information regarding covid 19
+
+## 3. URL: https://disease.sh/v3/covid-19/all
+
+    {
+        total:Number,
+        active:Number,
+        deaths:Number,
+        recovered:Number
+        ...
+    }

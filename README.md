@@ -44,7 +44,7 @@ deaths: {
 recovered: {
     ['1/2/2022', 89],
     // ...
-}
+}```
 
 
 ### 2. Country-Specific COVID-19 Information

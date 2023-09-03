@@ -2,6 +2,11 @@
 
 This is a COVID-19 dashboard application that provides information about active cases, deaths, and recoveries related to COVID-19. It fetches data from various API endpoints to display country-specific and worldwide COVID-19 information.
 
+### 1. Deployment link
+
+- **URL**: [https://toiya-assigment.vercel.app/)
+
+
 ## Getting Started
 
 To start the application, follow these steps:
